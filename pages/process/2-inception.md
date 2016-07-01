@@ -43,7 +43,7 @@ Steps for creating proto-personas:
 
 ## Resources
 
-* Using Proto-Personas for Executive Alignment ([https://uxmag.com/articles/using-proto-personas-for-executive-alignment](https://uxmag.com/articles/using-proto-personas-for-executive-alignment))
+* [Using Proto-Personas for Executive Alignment](https://uxmag.com/articles/using-proto-personas-for-executive-alignment](https://uxmag.com/articles/using-proto-personas-for-executive-alignment)
 
 # Deconstructing the Problem
 
