@@ -29,6 +29,7 @@ Since those days, open innovation has been used in the federal government by age
 ## Common Questions About Open Innovation
 
 **Q: What’s the difference between challenges, citizen science, and competitions?**
+
 A: See [https://www.digitalgov.gov/2015/12/16/challenges-crowdsourcing-citizen-science-whats-the-dif/](https://www.digitalgov.gov/2015/12/16/challenges-crowdsourcing-citizen-science-whats-the-dif/)
 
 ## Deeper Dive
