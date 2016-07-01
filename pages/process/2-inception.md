@@ -13,9 +13,9 @@ Key activities include, but are not limited to:
 * Determining a product strategy
 * User story mapping
 
-# Creating proto-personas
+## Creating proto-personas
 
-## Overview
+### Overview
 
 In order to identify your key users and to ensure alignment among the team during inception, create proto-personas. Proto-personas are:
 
@@ -30,7 +30,7 @@ It is also important to note that although proto-personas are a valuable tool, t
 
 If your team or program have already created actual personas (ones based on end user research) for the product, those can be used in place of creating proto-personas for inception.
 
-## How-to Guide
+### How-to Guide
 
 Steps for creating proto-personas:
 
@@ -41,20 +41,20 @@ Steps for creating proto-personas:
 5. For each attribute you choose, rank each of the prioritized proto-personas against that attribute.
 6. Document your team’s final output for each of the prioritized proto-personas digitally so that will be easier to share and reuse in future conversations. The final proto-personas should include a name, sketch, key demographic information, needs and goals of that person in relation the product, and list of their behaviors.
 
-## Resources
+### Resources
 
 * [Using Proto-Personas for Executive Alignment](https://uxmag.com/articles/using-proto-personas-for-executive-alignment)
 
-# Deconstructing the Problem
+## Deconstructing the Problem
 
-## Overview
+### Overview
 
 asad
 
-## How-to Guide
+### How-to Guide
 
 jlsdjfls
 
-## Resources
+### Resources
 
 * Adsasd
