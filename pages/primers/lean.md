@@ -42,6 +42,7 @@ This philosophy has been applied to other industries such as Lean Thinking, Lean
 ## Common Questions About Lean
 
 **Q: What’s the difference between Agile and Lean?**
+
 A: Lean manufacturing is the public version of the Toyota Production System, developed in the years following WWII in Japan with important contributions from American pioneer W. Edwards Deming. Lean is a method of organizational and process improvement aimed at removing waste from the process of building value for customers. Lean rests on the twin pillars of Respect for People and Continuous Learning. Agile has its conceptual roots in Lean but focuses most specifically on software development and provides a framework for a different cultural approach.
 
 ## Deeper Dive
