@@ -32,6 +32,7 @@ Human Centered Design was popularized in the 1990s by the Standford d.school and
 ## Common Questions About HCD
 
 **Q: What’s the difference between Design Thinking and HCD?**
+
 A: Technically speaking, design thinking is simply thinking and creating like a designer, though it may or may not be centered on the people for whom you’re designing since there are many design methodologies. However, in practice, we use the terms interchangeably and most people mean "human-centered design" when they say “design thinking” and mean “design thinking” when they say “human-centered design.” We will use the terms interchangeably as well.
 
 ## Deeper Dive
