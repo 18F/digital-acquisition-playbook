@@ -62,12 +62,17 @@ This manifesto led to 12 principles that guide the agile development process:
 ## **Common Questions About Agile**
 
 **Q: What’s the difference between Agile and Waterfall?**
+
 A: The so-called Waterfall methodology is a plan-driven approach to software development that requires much analysis, planning, and risky project and product assumptions to be in place before doing actual development. It is inflexible, hostile to change, and has a long history of delivering poor project results. Agile is a new, empirically-based approach that emphasizes frequent interaction with users and an iterative approach to creating a customer solution. Agile embraces change during a project, lowers risk, and generally improves the ROI of software development investments.
 
+
 **Q: What’s the difference between Agile and Lean?**
+
 A: Lean manufacturing is the public version of the Toyota Production System, developed in the years following WWII in Japan with important contributions from American pioneer W. Edwards Deming. Lean is a method of organizational and process improvement aimed at removing waste from the process of building value for customers. Lean rests on the twin pillars of Respect for People and Continuous Learning. Agile has its conceptual roots in Lean but focuses most specifically on software development and provides a framework for a different cultural approach.
 
+
 **Q: What’s the difference between Scrum or Kanban or Extreme Programming (XP)?**
+
 A: Scrum and eXtreme Programming are two Agile methodologies that provide very specific direction on how to build software in a way that is consistent with Agile principles. Kanban is a method of process management and improvement that comes from Lean. Each of them provides a disciplined approach to the process of software development and all of them come from a different fundamental framework than Waterfall.
 
 ## Deeper Dive
