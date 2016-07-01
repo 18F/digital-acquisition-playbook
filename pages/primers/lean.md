@@ -18,7 +18,7 @@ Waste is defined as:
 
 ## Key Terms
 
-* **Kaizen: **Japanese term for "change for the better", this is the Lean method for identifying root causes of waste in processes. Kaizen manifest in Agile as the Team Retrospective.
+* **Kaizen:** Japanese term for "change for the better", this is the Lean method for identifying root causes of waste in processes. Kaizen manifest in Agile as the Team Retrospective.
 * **Fishbone (or Ishikawa) diagram. **A cause and effect diagram used to identify the root cause for an effect or problem.
 * **Muri.** The Japanese word for overburden.
 * **Mura.** The Japanese word for inconsistency or variation.
@@ -26,7 +26,7 @@ Waste is defined as:
 
 ## History
 
-When you hear Lean [insert noun] you can thank our friends over at Toyota. Taiichi Ohno started working as an engineer at Toyota motor company in 1943 and is considered the father of the Toyota Production System (TPS), also known as just-in-time production. His system was devised to eliminate the seven eight common forms of waste. These are (NOTE:  https://en.wikipedia.org/wiki/Muda_(Japanese_term)):
+When you hear Lean [insert noun] you can thank our friends over at Toyota. Taiichi Ohno started working as an engineer at Toyota motor company in 1943 and is considered the father of the Toyota Production System (TPS), also known as just-in-time production. His system was devised to eliminate the seven eight common forms of waste. These are:
 
 1. **Transportation.** Moving things around.
 2. **Inventory.** Number of things.
