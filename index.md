@@ -17,9 +17,10 @@ In this guide you will find information about:
 - [Digital Acquistion Accelerator](https://github.com/18F/daap-playbook/blob/master/pages/5-about-daap.md)
 
 ## Background
-Here is a great collection of resources that will help you understand digital acquisitions (in case you need it!).
+Here is a great collection of resources that will help you better understand digital acquisitions (in case you need it!).
 
 * [TechFar](https://github.com/usds/playbook/blob/gh-pages/_includes/techfar-online.md)
+* [TechFar Hub](https://techfarhub.cio.gov/)
 * [Agile Acquisitons 101](https://www.fai.gov/media_library/items/show/81)
 * [Innovative Contracting Case Studies](https://www.whitehouse.gov/sites/default/files/microsites/ostp/innovative_contracting_case_studies_2014_-_august.pdf)
 * [Digital Services Playbook](https://playbook.cio.gov/)
