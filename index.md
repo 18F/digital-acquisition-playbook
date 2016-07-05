@@ -13,6 +13,7 @@ It starts with changing your mindset and thinking a bit differently during each 
 In this guide you will find information about:
 - [Digital Acquisition Process](https://github.com/18F/daap-playbook/blob/master/pages/3-process.md)
 - [Primers on Modern Digital Practices](https://github.com/18F/daap-playbook/blob/master/pages/4-primers.md)
+- [Related Case Studies](https://github.com/18F/daap-playbook/blob/master/pages/2-case-study.md)
 - [Digital Acquistion Accelerator](https://github.com/18F/daap-playbook/blob/master/pages/5-about-daap.md)
 
 ## Background
