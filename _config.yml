@@ -19,17 +19,3 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-

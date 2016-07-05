@@ -1,14 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-  <body class="no-js layout-article layout-article-{{ page.title | slugify }}">
-    <a class="a-skip-to-main" href="#main">Skip to main content</a>
-    <main class="article" role="main" id="main">
-      <div class="page">
-        <div class="wrapper">
-          <h1 class="page-title">{{ page.title }}</h1>
-          {{ content }}
-        </div>
-      </div>
-    </main>
-  </body>
-</html>
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
