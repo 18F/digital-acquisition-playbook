@@ -2,8 +2,8 @@
 
 ## Agile
 
-* **Product Backlog:** a prioritized list of items for the development team to deliver. The most important items are shown at the top of the product backlog so the team knows what to deliver first. (NOTE:  https://www.atlassian.com/agile/backlogs) Items are often in the form of **user stories**.
 * **Epic:**  A large or high level user story that can be broken down into a number of smaller stories. (NOTE:  https://confluence.atlassian.com/agile/jira-agile-user-s-guide/working-with-epics) 
+* **Product Backlog:** a prioritized list of items for the development team to deliver. The most important items are shown at the top of the product backlog so the team knows what to deliver first. (NOTE:  https://www.atlassian.com/agile/backlogs) Items are often in the form of *user stories*.
 * **Product Owner**: The member of a scrum team who is responsible for what the team produces and the order in which it’s produced. The Product Owner is charged with making sure that the team produces something that is of value to users and customers.
 * **Retrospective:** At end of each sprint,  a retrospective is held which allows the team to reflect and adjust practices. Any team member can voice a problem or propose a solution.
 * **Scrum Master**: The servant leader of the team who facilitates, removes impediments, and generaly ensures that the team is working well without managing them directly.
@@ -14,8 +14,8 @@
 
 ## Lean
 
-* **Kaizen: **Japanese term for "change for the better", this is the Lean method for identifying root causes of waste in processes. Kaizen manifest in Agile as the Team Retrospective.
-* **Fishbone (or Ishikawa) diagram. **A cause and effect diagram used to identify the root cause for an effect or problem.
+* **Fishbone (or Ishikawa) diagram.** A cause and effect diagram used to identify the root cause for an effect or problem.
+* **Kaizen:** Japanese term for "change for the better", this is the Lean method for identifying root causes of waste in processes. Kaizen manifest in Agile as the Team Retrospective.
 * **Muri.** The Japanese word for overburden.
 * **Mura.** The Japanese word for inconsistency or variation.
 * **Muda.** The Japanese word for waste.
