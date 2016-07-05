@@ -1,4 +1,4 @@
-# About the Digital Acquisitions Accelerator 
+# About the Digital Acquisition Accelerator Pilot
 
 Announced in March 2016 by the Office of Federal Procurement Policy (OFPP), the Digital Acquisition Accelerator is a pilot program aimed at helping agencies accelerate the adoption of digital acquisition practices. It’s funded by the General Services Administration, and is managed and delivered by 18F and the Presidential Innovation Fellows. Its purpose is to complement, not replace, the creation of an Acquisition Innovation Lab, per the OFPP memo.
 
