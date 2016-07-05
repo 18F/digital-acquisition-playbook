@@ -1,4 +1,4 @@
-# Digital Acquisitions Accelerator Playbook
+# Digital Acquisition Playbook
 This playbook provides guidelines on how to approach digital acquistions within your agency. The playbook is broken down by first defining digital acquisitions, detailing out the phases of a digital acguisition, and then providing primers on a few key modern digital practices. You'll learn about the importance of building cross-functional teams, how to create a product strategy before solicitation, and this will provide an overview on agile, lean, human-centered design, open innovation, and modular contracting.
 
 This playbook is a complement to the U.S. Digital Services Playbook and the TechFar.
