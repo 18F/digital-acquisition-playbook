@@ -12,6 +12,13 @@
 * **Standups:** the team meets daily for short meetings which are typically held standing up, face-to-face to encourage brief sessions. This is not a status meeting, it is a meeting for team self-organization around the work of the day.  Team members  plan for the most efficient and productive day for the team. Long answers and discussions should have follow-up in smaller groups after the standup meeting.
 
 
+## Human-Centered Design
+
+* **Design Thinking.** A human-centered approach to innovation that draws from the designer's toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success.
+* **Frameworks.** Visual representations of a system used to highlight key relationships and develop strategy.
+* **Prototype.** Quickly created, representations of a product, program, or service to test a hypothesis or assumption about the usability and/or functionality of a feature or set of features.
+
+
 ## Lean
 
 * **Fishbone (or Ishikawa) diagram.** A cause and effect diagram used to identify the root cause for an effect or problem.
@@ -21,11 +28,9 @@
 * **Muda.** The Japanese word for waste.
 
 
-## Human-Centered Design
+## Modular Contracting
 
-* **Design Thinking.** A human-centered approach to innovation that draws from the designer's toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success.
-* **Frameworks.** Visual representations of a system used to highlight key relationships and develop strategy.
-* **Prototype.** Quickly created, representations of a product, program, or service to test a hypothesis or assumption about the usability and/or functionality of a feature or set of features.
+* 
 
 
 ## Open Innovation
@@ -35,8 +40,3 @@
 * **Crowdsourcing.** When organizations submit an open call for voluntary assistance from a large group of individuals for online, distributed problem solving. (NOTE:  https://www.citizenscience.gov/about/)
 * **Hackathons.** An event of any length of time where people, usually from varying disciplines, come together to solve problems to a specific topic.
 * **Open Source.** Denotes software whose source code is made freely available and can be modified and redistributed. The full defintion for open source can be found here https://opensource.org/osd-annotated.
-
-
-## Modular Contracting
-
-* 
