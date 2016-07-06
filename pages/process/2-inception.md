@@ -45,16 +45,42 @@ Steps for creating proto-personas:
 
 * [Using Proto-Personas for Executive Alignment](https://uxmag.com/articles/using-proto-personas-for-executive-alignment)
 
+
 ## Deconstructing the Problem
 
 ### Overview
 
-asad
+When developing new products, processes, programs, most agencies are not sufficiently rigorous in defining the problems they are attempting to solve and articulating why those issues are important across the organization and to vendors. Agencies often miss opportunities, waste resources, and end up pursuing innovation initiatives that aren’t properly aligned with their core mission because they have not properly understood the problem.
+
+Problem deconstruction helps focus your team at the beginning of a new project and ensures that you are solving the right problem and tackling it in the right way with your acquisition strategy. In the end, your team should be able to answer the following questions:
+
+- What is the solvable problem?  
+- Who has the problem or who is the customer?  
+- What form should the final solution take? What is the scope (in time, money, resources, technologies) that can be used to solve the problem?  
+- What barriers and constraints exist to solving this problem? 
+  
 
 ### How-to Guide
 
-jlsdjfls
+Creating a Problem Statement
+
+1. Understand your team’s current understanding of the problem by answering the “Campfire Questions”: 
+    1. What problem are we solving for our users? 
+    2. Why is solving it important? 
+    3. Why now? 
+2. As a group, draft a problem statement based on the assumptions and current understanding of the problem from your team. 
+3. Use the [CATWOE Analysis](http://bpmgeek.com/blog/what-catwoe-analysis) to identify the people, processes, and environment that contributes to the problem. 
+4. If stuck, use the [Five Ws (Who, What, When, Where Why) and H](https://en.wikipedia.org/wiki/Five_Ws) to answer fundamental questions about your products. 
+5. Identify barriers and constraints that may have prohibited to this problem from being solved previously. Barriers are obstructions that can be overcome (like a fence) while constraints are limiting factors that can’t be overcome. 
+6. Reframe the problem statement to answer these questions: 
+    1. What is the solvable problem? This should explain why the team is needed. 
+    2. Who has the problem or who is the customer? This should explain who needs the solution and who will decide the problem has been solved. 
+    3. What form should the final solution take? What is the scope (in time, money, resources, technologies) that can be used to solve the problem?  
+    4. What barriers and constraints exist to solving this problem? 
+
 
 ### Resources
 
-* Adsasd
+- [CATWOE Analysis](http://bpmgeek.com/blog/what-catwoe-analysis) 
+- [Five Ws (Who, What, When, Where Why) and H ](https://en.wikipedia.org/wiki/Five_Ws) 
+- [Link to Amy’s Worksheet]
