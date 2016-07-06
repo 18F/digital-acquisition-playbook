@@ -73,10 +73,10 @@ Creating a Problem Statement
 4. If stuck, use the [Five Ws (Who, What, When, Where Why) and H](https://en.wikipedia.org/wiki/Five_Ws) to answer fundamental questions about your products. 
 5. Identify barriers and constraints that may have prohibited to this problem from being solved previously. Barriers are obstructions that can be overcome (like a fence) while constraints are limiting factors that can’t be overcome. 
 6. Reframe the problem statement to answer these questions: 
-    1. What is the solvable problem? This should explain why the team is needed. 
-    2. Who has the problem or who is the customer? This should explain who needs the solution and who will decide the problem has been solved. 
-    3. What form should the final solution take? What is the scope (in time, money, resources, technologies) that can be used to solve the problem?  
-    4. What barriers and constraints exist to solving this problem? 
+    1. **What is the solvable problem?** This should explain why the team is needed. 
+    2. **Who has the problem or who is the customer?** This should explain who needs the solution and who will decide the problem has been solved. 
+    3. **What form should the final solution take?** What is the scope (in time, money, resources, technologies) that can be used to solve the problem?  
+    4. **What barriers and constraints exist to solving this problem?**
 
 
 ### Resources
