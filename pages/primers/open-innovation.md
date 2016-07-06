@@ -14,11 +14,11 @@ One of the goals of open innovation is to create a more open government to incre
 
 ## Key Terms
 
-* **Challenges and Prize Competitions.** With a challenge and prize competition, a "seeker" poses a problem or question to the public and “solvers” respond and submit solutions. An agency pays only for those solutions that meet the criteria and are chosen as winners. (NOTE:  https://www.challenge.gov/about/) Success in these competitions depend on the skill, judgement, and knowledge of the participants and does not wholly rely on chance.
-* **Citizen Science**. When the public participates voluntarily in the scientific process with the federal government and nongovernmental organizations, addressing real-world problems in ways that may include formulating research questions, conducting scientific experiments, collecting and analyzing data, interpreting results, making new discoveries, developing technologies and applications, and solving complex problems. (NOTE:  https://www.citizenscience.gov/about/)
-* **Crowdsourcing.** When organizations submit an open call for voluntary assistance from a large group of individuals for online, distributed problem solving. (NOTE:  https://www.citizenscience.gov/about/)
+* **Challenges and Prize Competitions.** With a challenge and prize competition, a "seeker" poses a problem or question to the public and “solvers” respond and submit solutions. An agency pays only for those solutions that meet the criteria and are chosen as winners. Success in these competitions depend on the skill, judgement, and knowledge of the participants and does not wholly rely on chance.
+* **Citizen Science**. When the public participates voluntarily in the scientific process with the federal government and nongovernmental organizations, addressing real-world problems in ways that may include formulating research questions, conducting scientific experiments, collecting and analyzing data, interpreting results, making new discoveries, developing technologies and applications, and solving complex problems.
+* **Crowdsourcing.** When organizations submit an open call for voluntary assistance from a large group of individuals for online, distributed problem solving.
 * **Hackathons.** An event of any length of time where people, usually from varying disciplines, come together to solve problems to a specific topic.
-* **Open Source.** Denotes software whose source code is made freely available and can be modified and redistributed. The full defintion for open source can be found here https://opensource.org/osd-annotated.
+* **Open Source.** Denotes software whose source code is made freely available and can be modified and redistributed. The full defintion for open source can be found [here](https://opensource.org/osd-annotated).
 
 ## History
 
@@ -35,5 +35,7 @@ A: See [https://www.digitalgov.gov/2015/12/16/challenges-crowdsourcing-citizen-s
 
 ## Deeper Dive
 
-* [White House Open Government Initiative](https://www.whitehouse.gov/open))
+* [White House Open Government Initiative](https://www.whitehouse.gov/open)
 * [Everything You Need to Know About Open Innovation](http://www.forbes.com/sites/henrychesbrough/2011/03/21/everything-you-need-to-know-about-open-innovation/#347f1e3c20b4)
+* [Challenge.gov](https://www.challenge.gov/)
+* [Citizenscience.gov](https://www.citizenscience.gov/)
