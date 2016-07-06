@@ -86,3 +86,37 @@ Creating a Problem Statement
 - [CATWOE Analysis](http://bpmgeek.com/blog/what-catwoe-analysis) 
 - [Five Ws (Who, What, When, Where Why) and H ](https://en.wikipedia.org/wiki/Five_Ws) 
 - [Link to Amy’s Worksheet]
+
+
+
+## Developing a Product Vision and Strategy
+
+### Overview
+
+In the words of [Jim Highsmith](http://jimhighsmith.com/jim-highsmith/), for any project, but particularly those with high uncertainty for which significant requirements changes are anticipated, creating a product vision statement helps teams remain focused on the critical aspects of the product, even when details are changing rapidly. A product strategy describes how all of the product principles, statements of the value a product embodies, fit together. These help your teams maintain the coherence of decisions being made over time within changing circumstances.
+
+
+### How-to Guide
+
+Developing a Product Vision and Strategy
+
+1. Capture assumptions and hypotheses shared by the team about your product or service. Write down everything you know about the product and reference source of knowledge if possible on sticky notes. 
+2. Analyze the sticky notes and organize them into groups based. Each group should be given a label. 
+3. Determine the minimum viable product (MVP) by identifying key features on sticky notes and prioritizing them as a group with an activity like [dot voting](https://methods.18f.gov/feature-dot-voting/). 
+4. Identify success criteria for each of the prioritized features. Success criteria are the factors that help your team determine if the feature is meeting the desired objectives. As a team, identify the success criteria that are both critical and measurable. 
+5. Identify any challenges and risks associated with the MVP. 
+6. Design a Product Box which assumes the product will be sold in a shrink wrapped box and your team needs to come up with a product name, graphic, 3-4 key bullet points to “sell” the product, a detailed feature description on the back, and operating requirements. 
+7. Draft a product vision statement. The vision statement should answer the following: 
+    1. For (people served) 
+    2. Who (statement of the need or opportunity to fulfill mission) 
+    3. The (product name) is a (product category) 
+    4. That (key benefit, compelling reason to change) 
+    5. Unlike (existing product) 
+    6. Our product (statement of primary differentiation) 
+
+
+### Resources
+
+- [Product Vision by Jared Spolsky](http://www.joelonsoftware.com/articles/JimHighsmithonProductVisi.html) 
+- [Tips for Writing a Compelling Product Vision](http://www.romanpichler.com/blog/tips-for-writing-compelling-product-vision/) 
+- [Crossing the Chasm by Geoffrey A. Moore](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0066620023?ie=UTF8&redirect=true&tag=cutterinformatco)
