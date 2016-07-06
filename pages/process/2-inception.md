@@ -120,3 +120,35 @@ Developing a Product Vision and Strategy
 - [Product Vision by Jared Spolsky](http://www.joelonsoftware.com/articles/JimHighsmithonProductVisi.html) 
 - [Tips for Writing a Compelling Product Vision](http://www.romanpichler.com/blog/tips-for-writing-compelling-product-vision/) 
 - [Crossing the Chasm by Geoffrey A. Moore](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0066620023?ie=UTF8&redirect=true&tag=cutterinformatco)
+
+
+
+## User Story Mapping
+
+### Overview
+
+A user story map is a visualization of the user’s journey through the product that you’re designing. It keeps your users and what they’re doing with the product the focus of your planning, not the features the product has. 
+
+User stories are typically organized in a product backlog--a list of prioritized objectives which helps teams understand what features to develop over time. Teams work with the product owner to rank the backlog of user stories. Usually this results in a linear product backlog. which makes it hard to understand and explain to others what the product does. It also adds extra complexity to release planning in Agile. The story map makes it much easier to tell a user’s story. 
+
+There’s a formula to build a user story map: users have a vision, which are achieved by goals. Their goals are reached by completing activities, and to complete an activity users must perform tasks. At the top of the whole story map is the users who are at the center of the journey, and the tasks are laid out according to the sequence of time on the X axis, and the priority of the tasks on the Y axis. 
+
+[insert image if possible]
+
+
+### How-to Guide
+
+To create a user story map, you will need to have at least four different colors of medium-sized sticky notes, Sharpies, a large blank wall or poster boards. You’ll be making many sticky notes and moving the sticky notes around, so make sure that you have large wall space. Below are the steps to create a user story map:
+
+
+1. Capture each proto-personas on separate sticky notes, starting with users that interact with the project the most. Place each of the prioritized personas in a linear line along the X axis on the wall or poster board at the top according to the highest priority to the left, and the lowest on the right side. Multiple personas can be used if they have the same goals at heart. 
+2. Identify the goals that each user is trying to accomplish. Each goal should be written on a separate color sticky note than the personas, and should be kept at a high level. There may be one or several different goals of that user--make sure you account for all the goals for that user.  
+3. Under each of the goals list specific tasks of the specific users above. Each of the goals should have several activities to complete the overarching goal. In the diagram below, each of the goals have specific activities that are directly related to and map back to the goals of that user. Activities usually start with an actionable verb followed by a noun. 
+4. For each activity, identify the tasks that  comprise that activity. Tasks also should start with a verb, but are more descriptive than activities. 
+5. Determine a release planning strategy by highlighting the features that encompass your MVP. 
+
+
+### Resources
+
+- [Story Mapping Quick Reference](http://jpattonassociates.com/story-mapping-quick-ref/) 
+- [User Story Mapping by Jeff Patton](http://shop.oreilly.com/product/0636920033851.do)
