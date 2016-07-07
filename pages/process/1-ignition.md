@@ -6,7 +6,6 @@ As an agency is paramount that you build the right digital acquisitions team and
 
 * Identifying Key Roles
 * Training
-* Skills assessment
 
 At the end of this phase you should have: 
 
