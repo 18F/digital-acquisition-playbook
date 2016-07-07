@@ -4,7 +4,7 @@
 
 The core of open innovation is that agencies can and should activate a broad network of solvers with diverse skill sets to accelerate internal innovation. It is a call for collaboration among agencies and the public noting that shared knowledge and resources will better help solve some of the tougher technology problems we face as a country. Crowdsourcing and competitions are common methods used to spur open innovation.
 
-One of the goals of open innovation is to create a more open government to increase transparency, collaboration, and participation between the government and its citizens. To date, the open innovation portfolio currently consists of [Challenge.gov,](https://www.challenge.gov) [Citizenscience.gov](https://www.citizenscience.gov/), [Open Opportunities](https://openopps.digitalgov.gov/), and the Innovation Lab/Toolkit (FY17).
+One of the goals of open innovation is to create a more open government to increase transparency, collaboration, and participation between the government and its citizens. To date, the open innovation portfolio currently consists of [Challenge.gov,](https://www.challenge.gov) [Citizenscience.gov](https://www.citizenscience.gov/), [Open Opportunities](https://openopps.digitalgov.gov/), and the Innovation Lab/Toolkit (Due FY17).
 
 ## Key Resources
 
@@ -24,7 +24,7 @@ One of the goals of open innovation is to create a more open government to incre
 
 Dr. Henry Chesbrough is credited with originating the theory and coining the term "[open innovation](http://www.forbes.com/sites/henrychesbrough/2011/03/21/everything-you-need-to-know-about-open-innovation/#5b92110220b4)." He defines open innovation as “the use of purposive inflows and outflows of knowledge to accelerate internal innovation, and expand the markets for external use of innovation, respectively.” In 2003, his book “Open Innovation: The New Imperative for Creating and Profiting from Technology” he popularized idea but the concept can be traced as far back as the 1714 Longitude Act. As the [Longitude Prize](https://longitudeprize.org/history) states, “in 1714 the British Government offered, by Act of Parliament, £20,000 for a solution which could find longitude to within half a degree (equivalent to 2 minutes of time), and a group later known as the Board of Longitude was set up to assess submissions and offer rewards.” This was an important step in showing the effectiveness of open innovation.
 
-Since those days, open innovation has been used in the federal government by agencies such as NASA, U.S. Agency for International Development (USAID), and the National Science Foundation (NSF). Also, Challenge.gov has supported over 80 agencies by launching 640+ competitions and awarding over $220 million since 2010. [Citizenscience.gov](https://www.citizenscience.gov/) supports a community of practice for nearly 300 federal practicinors who share skills, resources and experiences to improve public participation across the government while open opportunities is a platform that crowdsources federal employees to collaborate across agency initiatives. 
+Since those days, open innovation has been used in the federal government by agencies such as NASA, U.S. Agency for International Development (USAID), and the National Science Foundation (NSF). Also, [Challenge.gov](https://www.challenge.gov/list/) has supported over 80 agencies by launching 640+ competitions and awarding over $220 million since 2010. [Citizenscience.gov](https://www.citizenscience.gov/) supports a community of practice for nearly 300 federal practicinors who share skills, resources and experiences to improve public participation across the government while open opportunities is a platform that crowdsources federal employees to collaborate across agency initiatives. 
 
 
 ## Common Questions About Open Innovation
@@ -35,7 +35,7 @@ A: See [https://www.digitalgov.gov/2015/12/16/challenges-crowdsourcing-citizen-s
 
 ## Deeper Dive
 
-* [White House Open Government Initiative](https://www.whitehouse.gov/open)
-* [Everything You Need to Know About Open Innovation](http://www.forbes.com/sites/henrychesbrough/2011/03/21/everything-you-need-to-know-about-open-innovation/#347f1e3c20b4)
 * [Challenge.gov](https://www.challenge.gov/)
 * [Citizenscience.gov](https://www.citizenscience.gov/)
+* [White House Open Government Initiative](https://www.whitehouse.gov/open)
+* [Everything You Need to Know About Open Innovation](http://www.forbes.com/sites/henrychesbrough/2011/03/21/everything-you-need-to-know-about-open-innovation/#347f1e3c20b4)
