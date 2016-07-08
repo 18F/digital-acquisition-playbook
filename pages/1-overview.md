@@ -26,6 +26,7 @@ Here is a great collection of resources that will help you understand digital ac
 * [Digital Services Playbook](https://playbook.cio.gov/)
 * [Digital Contracting Cookbook](https://github.com/18F/contracting-cookbook)
 * [Acquistion.gov](https://www.acquisition.gov/)
+* [Open Data Stack Exchange](http://opendata.stackexchange.com/)
 
 Acquisitions is defined by the Federal Acquisitions Regulation (FAR) as the:
 
