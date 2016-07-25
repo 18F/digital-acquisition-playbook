@@ -40,3 +40,5 @@ A: Technically speaking, design thinking is simply thinking and creating like a 
 * [A Brief History of Desgin Thinking: How Design Thinking Came to ‘Be’](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
 * [IDEO’s Design Kit](http://www.designkit.org/human-centered-design))
 * [David Kelly: Human Centered Design TED Talk](https://www.ted.com/talks/david_kelley_on_human_centered_design?language=en)
+* [Wired: Why Human-Centered Design Matters](http://www.wired.com/insights/2013/12/human-centered-design-matters/)
+* [White House: Applying Human Centered Design to improve the National School Lunch Program.](https://www.whitehouse.gov/blog/2015/09/04/using-human-centered-design-make-government-work-better-and-cost-less)
