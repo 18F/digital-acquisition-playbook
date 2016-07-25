@@ -9,7 +9,7 @@ When most people think of "agile" they tend to think of specific agile methodolo
 3. Collaboration with users and customers
 4. Responding to changes in requirements
 
-Specific methodologies such as Scrum, eXtreme Programming, and in some cases Kanban offer detailed implementations of the principles of agility.
+Specific methodologies such as Scrum, eXtreme Programming, and in some cases Kanban offer detailed implementations of the principles of agility. Agile development involves a iterative approach to software delivery, where software is built increpentally from the start of the project, rather than trying to deliver it all at once near the end. 
 
 ## Key Resources
 
