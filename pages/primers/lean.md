@@ -4,6 +4,13 @@
 
 Lean methodology can be summed up as the process of creating more value for customers and reducing waste. Lean prescribes personal and organizational improvement along with waste removal as the way to continually grow a company. The distinct characteristics of lean are experimentation (instead of elaborate planning), customer feedback (instead of intuition), and iterative design (instead of doing big design up front).
 
+[According to entreprenur Steve Blank](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything), the fallacy of developing a "perfect business plan" includes the following: 
+
+1. Business plans rarely survive first contact with customers. As the boxer Mike Tyson once said about his opponents’ prefight strategies: “Everybody has a plan until they get punched in the mouth.”
+2. No one besides venture capitalists and the late Soviet Union requires five-year plans to forecast complete unknowns. These plans are generally fiction, and dreaming them up is almost always a waste of time.
+3. Start-ups are not smaller versions of large companies. They do not unfold in accordance with master plans. The ones that ultimately succeed go quickly from failure to failure, all the while adapting, iterating on, and improving their initial ideas as they continually learn from customers.
+
+
 Waste is defined as:
 
 1. Mura - waste due to variation
