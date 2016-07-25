@@ -33,6 +33,11 @@ Since those days, open innovation has been used in the federal government by age
 
 A: See [https://www.digitalgov.gov/2015/12/16/challenges-crowdsourcing-citizen-science-whats-the-dif/](https://www.digitalgov.gov/2015/12/16/challenges-crowdsourcing-citizen-science-whats-the-dif/)
 
+**Q: What’s the difference between Open Innovation and Open Source?**
+
+A: See [http://www.idexlab.com/blog/open-source-vs-open-innovation](http://www.idexlab.com/blog/open-source-vs-open-innovation)
+
+
 ## Deeper Dive
 
 * [Challenge.gov](https://www.challenge.gov/)
