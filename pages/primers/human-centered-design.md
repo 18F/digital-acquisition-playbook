@@ -15,8 +15,8 @@ Human-centered design consists of three phases. In the Inspiration Phase you’l
 ## Key Terms
 
 * **Design Thinking.** A human-centered approach to innovation that draws from the designer's toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success.
-* **Frameworks. **Visual representations of a system used to highlight key relationships and develop strategy.
-* **Prototype. **Quickly created, representations of a product, program, or service to test a hypothesis or assumption about the usability and/or functionality of a feature or set of features.
+* **Frameworks.** Visual representations of a system used to highlight key relationships and develop strategy.
+* **Prototype** Quickly created, representations of a product, program, or service to test a hypothesis or assumption about the usability and/or functionality of a feature or set of features.
 
 ## History
 
