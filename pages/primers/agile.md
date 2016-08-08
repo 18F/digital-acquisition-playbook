@@ -23,10 +23,10 @@ Specific methodologies such as Scrum, eXtreme Programming, and in some cases Kan
 * **Retrospective:** At end of each sprint,  a retrospective is held which allows the team to reflect and adjust practices. Any team member can voice a problem or propose a solution.
 * **Scrum Master**: The servant leader of the team who facilitates, removes impediments, and generaly ensures that the team is working well without managing them directly.
 * **Sprint:** A short period of time (usually two weeks) during which the team produces some items of customer value.  Valuable feedback is sought from users and customers at the end of each sprint.
-* **Sprint planning:** The team’s process of understanding and committing to a set of value to produce during the upcoming sprint. .
+* **Sprint Planning:** The team’s process of understanding and committing to a set of value to produce during the upcoming sprint. .
 * **Standups:** the team meets daily for short meetings which are typically held standing up, face-to-face to encourage brief sessions. This is not a status meeting, it is a meeting for team self-organization around the work of the day.  Team members  plan for the most efficient and productive day for the team. Long answers and discussions should have follow-up in smaller groups after the standup meeting.
-* **User story: A **short, simple description of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system. They typically follow a simple template: As a <type of user>, I want <some goal> so that <some benefit>. (NOTE:  https://www.mountaingoatsoftware.com/agile/user-stories)
-* **Velocity: **The sum of effort estimates associated with the user stories accepted by the Product Owner during a sprint.
+* **User Story:** A short, simple description of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system. They typically follow a simple template: As a <type of user>, I want <some goal> so that <some benefit>. (NOTE:  https://www.mountaingoatsoftware.com/agile/user-stories)
+* **Velocity:** The sum of effort estimates associated with the user stories accepted by the Product Owner during a sprint.
 
 ## History
 
