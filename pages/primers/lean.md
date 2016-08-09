@@ -15,13 +15,13 @@ Lean methodology can be summed up as the process of creating more value for cust
 
 ## Key Terms
 
-* **Pivot**
-* **Minimum Viable Product**
-* **Innovation Accounting**
-* **Actionable Metrics**
-* **Validated Learning**
-* **Build-Measure-Learn**
-* **Rapid experimentation.** 
+* **Pivot:** A structured course correction taken by an organization designed to test a new fundamental hypothesis about the product, strategy, and engine of growth.
+* **Minimum Viable Product:** As [Ash Maurya](https://leanstack.com/minimum-viable-product/) states, a Minimum Viable Product is the smallest thing you can build that delivers a customer value (and as a bonus captures some of that value back).
+* **Innovation Accounting:**
+* **Actionable Metrics:** 
+* **Validated Learning:** Determining pivot or preservere decision using actionable metrics from experiments. 
+* **Build-Measure-Learn:**
+* **Rapid experimentation:** 
 
 ## History
 
