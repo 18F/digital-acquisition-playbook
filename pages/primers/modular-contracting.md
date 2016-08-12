@@ -27,6 +27,9 @@ As defined in Clinger-Cohen legislation and Executive Order, modular contracting
 
 ## Key Terms
 
+* **Increments.** [DEFINITION GOES HERE]
+* **Modular architecture.** A system consisting of discrete but connect components (or modules) that can be replaced, reused, or added to without affecting the rest of the system. 
+
 ## History
 
 Kodak Eastman is credited with kicking off the trend of IT Outsourcing In 1989 when it entered into a contract with IBM for a 10 years totalling $250 million dollars for data center and PC support.  Many other entities, including federal agencies, entered into similarly structured contracts with differing results.  By 1996, the Clinger-Cohen Act wanted to modernize IT in the Federal Government and modular procurement was one piece to this modernization.
