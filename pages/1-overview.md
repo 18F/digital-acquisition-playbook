@@ -34,11 +34,11 @@ Acquisitions is defined by the Federal Acquisitions Regulation (FAR) as the:
 >
 > Acquisition begins at the point when agency needs are established and includes the description of requirements to satisfy agency needs, solicitation and selection of sources, award of contracts, contract financing, contract performance, contract administration, and those technical and management functions directly related to the process of fulfilling agency needs by contract." A short definition provided by the Federal Acquisition Institute explains acquisitions as "including traditional contracting functions, requirements definition, assessment and oversight of contract performance, and technical and management direction." 
 
-This is one of the key tools the federal government has at its disposal to get things done so it’s pretty important. In the past, federal IT acquisitions have not gone so well (NOTE:  Link to chaos report or article/site that talks about how this hasn’t gone well in the past.) (NOTE:  Link to additional reference that shows how federal IT acquisitions have not gone well) because:
+This is one of the key tools the federal government has at its disposal to get things done so it’s pretty important. In the past, federal IT acquisitions have not gone so well because:
 
-* There are a limited number of people in the workforce that understand both IT and Procurement which leads to a detrimental skills gap,
-* The "status quo" approach to large, multiyear, waterfall-based, extended requirement gathering, year-long competitions does not move at the same speed as technology,
-* Companies with creative solutions to many of the Government’s tech problems are finding it challenging to do business with the Government due to high barriers to entry, lack of customer facing tools, complex acquisition processes, and communication confusion on how to identify the available opportunities.
+* There are a limited number of people in the workforce that understand both IT and Procurement which leads to a detrimental skills gap.
+* The "status quo" approach to large, multiyear, waterfall-based, extended requirement gathering, year-long competitions does not move at the same speed as technology.
+* Companies with creative solutions to many of the Government’s tech problems are finding it challenging to do business with the Government due to high barriers to entry, lack of customer facing tools, complex acquisition processes, and communication confusion on how to identify the available opportunities.[[Source](https://www.fai.gov/media_library/items/show/23)]
 
 In this guide, we hope to help you understand how building cross-functional teams that understand and appreciate human-centered design methodologies, modern digital practices, and how thinking in terms of outcomes rather than requirements could transform digital acquisitions at your agency. We will also help you understand the open innovation movement and how it can apply to some of your digital projects to boot!
 
@@ -48,7 +48,7 @@ Now that we have our background information out of the way, let’s talk about h
 
 **Large, monolithic contracts**
 
-These, simply put, do not work well for digital products and services. Based on the numbers, you are only giving yourself a six percent chance of success when you start these types of projects. (NOTE:  Standish group chaos report http://www.infoq.com/articles/standish-chaos-2015) Also, technology moves fast and if you want your agency to be able to respond quickly in an ever changing landscape, you will need to avoid this at all costs.
+These, simply put, do not work well for digital products and services. [The Standish Group](http://www.infoq.com/articles/standish-chaos-2015) points out that you are only giving yourself a six percent chance of success when you start these types of projects. Also, technology moves fast and if you want your agency to be able to respond quickly in an ever changing landscape, you will need to avoid this at all costs.
 
 ## Landmine #2
 
