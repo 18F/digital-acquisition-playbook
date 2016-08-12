@@ -68,4 +68,11 @@ Remember that acquisitions is more than just buying and because of this, it is i
 
 The world moves fast and technology moves even faster. You have to be willing to adapt, course correct, and try new things to get the best digital products and services for your teams. The goal is to get better outcomes, not just contracts. No matter what your experience has been until now, you can learn and apply new techniques to make acquisitions more effective, more efficient and hopefully more joyful (yes, joyful… more on this later). Being open to change means shifting the focus from a "no we can’t" to a ‘how might we” context. It allows you to solve the problems as they arrive and based on any given context, known or unknown.
 
+
+## Landmine #5
+
+**Forgetting that people, not contracts, manage projects**
+
+It is important to have a product owner that works with the vendor until the period of performance is complete. Often, a contracting officer may work really hard to be sure that every possible clause that may or may not be needed is included within the contract. This is fine, but it often overlooks the reality that over the life of the contract, new ideas will be formed and business strategy may shift so it is important to have someone from your agency working hand in hand with the vendor to help make rapid decisions that still align with organizational goals.  Relying too heavily on contract clauses to solve every problem that may arise over the period of performance is an untenable expectation. It is important that you are allotting time for a resource in your agency to be a product owner to ensure the outcome has a greater chance of success.
+
 Avoiding these common landmines are the first steps in transforming digital acquisitions at your agency.
