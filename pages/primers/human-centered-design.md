@@ -2,7 +2,7 @@
 
 ## Definition
 
-The short version is that human centered design is about solving problems for (wait for it), humans. As IDEO puts it (NOTE:  http://www.designkit.org/human-centered-design):
+The short version is that human centered design is about solving problems for (wait for it), humans. As [IDEO](http://www.designkit.org/human-centered-design) puts it:
 
 > It’s a process that starts with the people you’re designing for and ends with new solutions that are tailor made to suit their needs. Human-centered design is all about building a deep empathy with the people you’re designing for; generating tons of ideas; building a bunch of prototypes; sharing what you’ve made with the people you’re designing for; and eventually putting your innovative new solution out in the world.
 
@@ -20,7 +20,7 @@ Human-centered design consists of three phases. In the Inspiration Phase you’l
 
 ## History
 
-Human Centered Design was popularized in the 1990s by the Standford d.school and the design company IDEO. HCD was an evolution of participatory and cooperative design which is built upon various disciplines like anthropology, sociology, and psychology. The principles of human centered design are (NOTE:  http://dschool.stanford.edu/wp-content/uploads/2011/03/BootcampBootleg2010v2SLIM.pdf):
+Human Centered Design was popularized in the 1990s by the Standford d.school and the design company IDEO. HCD was an evolution of participatory and cooperative design which is built upon various disciplines like anthropology, sociology, and psychology. The [principles of human centered design](http://dschool.stanford.edu/wp-content/uploads/2011/03/BootcampBootleg2010v2SLIM.pdf) are:
 
 1. **Focus on Human Values.** Empathy for the people you are designing for and feedback from these users is fundamental to good design
 2. **Craft Clarity. **Produce a coherent vision out of messy problems. Frame it in a way to inspire others and to fuel ideation.
