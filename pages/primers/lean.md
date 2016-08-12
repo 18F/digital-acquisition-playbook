@@ -2,7 +2,7 @@
 
 ## Definition
 
-Lean methodology can be summed up as the process of creating more value for customers and reducing waste. Lean Startup is a methodology, coined by Eric Reis, to shorten their product development cycle by using hypothesis driven experimentation and continous improvment through iterative product releases and validated learning. The distinct characteristics of lean startup are experimentation (instead of elaborate planning), customer feedback (instead of intuition), and iterative design (instead of doing big design up front).
+Lean methodology can be summed up as the process of creating more value for customers and reducing waste. Lean Startup is a methodology, coined by Eric Reis, to shorten their product development cycle by using hypothesis driven experimentation and continous improvment through iterative product releases and validated learning. The distinct characteristics of lean startup are experimentation (instead of elaborate planning), customer feedback (instead of intuition), and iterative design (instead of doing big design up front). This is the crux of the build-measure-learn loop.
 
 
 ## Key Resources
@@ -15,13 +15,12 @@ Lean methodology can be summed up as the process of creating more value for cust
 
 ## Key Terms
 
-* **Pivot:** A structured course correction taken by an organization designed to test a new fundamental hypothesis about the product, strategy, and engine of growth.
+* **Actionable Metrics:** Metrics used to help determine outcomes of experiments and better understand product performance. These metrics tie "[specific and repeatable actions to observed results.](https://leanstack.com/3-rules-to-actionable-metrics/)"
+* **Innovation Accounting:** An accounting method to figure out if a startup is making a progress before there is enough gross numbers for traditional accounting to kick in. It is a way to define, measure, and communicate outcomes to stakeholders.
 * **Minimum Viable Product:** As [Ash Maurya](https://leanstack.com/minimum-viable-product/) states, a Minimum Viable Product is the smallest thing you can build that delivers a customer value (and as a bonus captures some of that value back).
-* **Innovation Accounting:**
-* **Actionable Metrics:** 
+* **Pivot:** A structured course correction taken by an organization designed to test a new fundamental hypothesis about the product, strategy, and engine of growth.
 * **Validated Learning:** Determining pivot or preservere decision using actionable metrics from experiments. 
-* **Build-Measure-Learn:**
-* **Rapid experimentation:** 
+
 
 ## History
 
@@ -49,6 +48,6 @@ A: [Salim Virani](http://www.salimvirani.com/the-history-of-leanstartup-and-how-
 
 * [The Lean Startup](http://theleanstartup.com/)
 * [The History Of Lean Startup](http://www.salimvirani.com/the-history-of-leanstartup-and-how-to-make-sense-of-it-all/)
-* [Lean Canvas](https://canvanizer.com/new/lean-canvas))
-* [Lean Product Design](https://pages.18f.gov/lean-product-design/))
+* [Lean Canvas](https://canvanizer.com/new/lean-canvas)
+* [Lean Product Design](https://pages.18f.gov/lean-product-design/)
 * [Lean UX](http://www.jeffgothelf.com/blog/lean-ux-book/#sthash.uRif9xAP.dpuf)
