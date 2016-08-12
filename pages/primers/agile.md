@@ -17,7 +17,7 @@ Specific methodologies such as Scrum, eXtreme Programming, and in some cases Kan
 
 ## Key Terms
 
-* **Product Backlog:** a prioritized list of items for the development team to deliver. The most important items are shown at the top of the product backlog so the team knows what to deliver first. (NOTE:  https://www.atlassian.com/agile/backlogs) Items are often in the form of **user stories**.
+* **[Product Backlog](https://www.atlassian.com/agile/backlogs):** a prioritized list of items for the development team to deliver. The most important items are shown at the top of the product backlog so the team knows what to deliver first. Items are often in the form of **user stories**.
 * **Epic:**  A large or high level user story that can be broken down into a number of smaller stories. (NOTE:  https://confluence.atlassian.com/agile/jira-agile-user-s-guide/working-with-epics) 
 * **Product Owner**: The member of a scrum team who is responsible for what the team produces and the order in which it’s produced. The Product Owner is charged with making sure that the team produces something that is of value to users and customers.
 * **Retrospective:** At end of each sprint,  a retrospective is held which allows the team to reflect and adjust practices. Any team member can voice a problem or propose a solution.
