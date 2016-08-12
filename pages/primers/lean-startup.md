@@ -1,4 +1,4 @@
-# Lean 
+# Lean Startup
 
 ## Definition
 
