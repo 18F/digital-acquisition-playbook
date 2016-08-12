@@ -2,8 +2,8 @@
 
 The digital acquisitions process can be broken up into different phases which are:
 
-* Ignition - Building out your team and basic training.
-* Inception - Developing a product strategy and vision.
-* Procurement - Planning and executing a procurement plan.
-* Delivery - Working with vendors to produce the product.
-* Landing - Capturing results and lessons learned.
+* [Ignition](https://github.com/18F/digital-acquisition-playbook/blob/master/pages/process/1-ignition.md) - Building out your team and basic training.
+* [Inception](https://github.com/18F/digital-acquisition-playbook/blob/master/pages/process/2-inception.md) - Developing a product strategy and vision.
+* [Procurement](https://github.com/18F/digital-acquisition-playbook/blob/master/pages/process/3-procurement.md) - Planning and executing a procurement plan.
+* [Delivery](https://github.com/18F/digital-acquisition-playbook/blob/master/pages/process/4-delivery.md) - Working with vendors to produce the product.
+* [Landing](https://github.com/18F/digital-acquisition-playbook/blob/master/pages/process/5-landing.md) - Capturing results and lessons learned.
