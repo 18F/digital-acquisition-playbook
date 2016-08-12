@@ -1,4 +1,4 @@
-# (Primers) Basic Training for Cross-Functional Team
+# (Primers) Basic Training for Cross-Functional Teams
 
 Understanding these five practices and concepts can help improve the digital acquisition capability of your teams. These are:
 
