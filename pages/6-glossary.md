@@ -30,7 +30,8 @@
 
 ## Modular Contracting
 
-* 
+* **Increments.** Useful sub-segments of a larger contract that are used to develop and implement discrete products and capabilities related to a larger system.
+* **Modular architecture.** A system consisting of discrete but connect components (or modules) that can be replaced, reused, or added to without affecting the rest of the system.
 
 
 ## Open Innovation
