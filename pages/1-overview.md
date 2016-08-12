@@ -1,6 +1,6 @@
 # Overview
 
-We are all in this together on this beautiful journey into digital acquisitions. The goal of this guide to to do one thing: **make you a smarter government buyer of digital products and services.** Digital acquisitions aren’t different from other acquisitions per se, it’s just a different domain speciality. From a broad perspective it is simply buying software and services related to software. Note that is guide is focuses on digital acquisitions of custom software solutions but many of principles can be applied in various contexts. There are five main things that will make you a smarter buyer of digital services and products:
+We are all in this together on this beautiful journey into digital acquisitions. The goal of this guide to to do one thing: **make you a smarter government buyer of digital products and services.** Digital acquisitions aren’t different from other acquisitions per se, it’s just a different domain speciality. From a broad perspective it is simply buying products and services related to software. Note that is guide focuses on digital acquisitions of custom software solutions but many of principles can be applied in various contexts. There are five main things that will make you a smarter buyer of digital products and services:
 
 1. Staying up to date on modern digital practices
 2. Knowing the market
