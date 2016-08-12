@@ -38,7 +38,7 @@ This is one of the key tools the federal government has at its disposal to get t
 
 * There are a limited number of people in the workforce that understand both IT and Procurement which leads to a detrimental skills gap.
 * The "status quo" approach to large, multiyear, waterfall-based, extended requirement gathering, year-long competitions does not move at the same speed as technology.
-* Companies with creative solutions to many of the Government’s tech problems are finding it challenging to do business with the Government due to high barriers to entry, lack of customer facing tools, complex acquisition processes, and communication confusion on how to identify the available opportunities.[[Source](https://www.fai.gov/media_library/items/show/23)]
+* Companies with creative solutions to many of the Government’s tech problems are finding it challenging to do business with the Government due to high barriers to entry, lack of customer facing tools, complex acquisition processes, and communication confusion on how to identify the available opportunities. [[Source](https://www.fai.gov/media_library/items/show/23)]
 
 In this guide, we hope to help you understand how building cross-functional teams that understand and appreciate human-centered design methodologies, modern digital practices, and how thinking in terms of outcomes rather than requirements could transform digital acquisitions at your agency. We will also help you understand the open innovation movement and how it can apply to some of your digital projects to boot!
 
