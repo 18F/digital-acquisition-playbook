@@ -30,7 +30,7 @@ Specific methodologies such as Scrum, eXtreme Programming, and in some cases Kan
 
 ## History
 
-So what does skiing have to do with agile principles? Much more than you would think. The Agile Manifesto was created from February 11-13, 2001 at the Ski Bird Lodge in the Wasatch mountains of Utah (fun fact: other discussed choices for this meeting were Chicago, IL and Anguilla. Chicago was thought to be too cold without enough fun things to do and Anguilla too hard to get to). The Manifesto for Agile Software Development, more commonly referred to as the Agile Manifesto (NOTE:  http://agilemanifesto.org/), was born from this fateful meeting of the minds. The manifesto, in full, is as follows:
+So what does skiing have to do with agile principles? Much more than you would think. The Agile Manifesto was created from February 11-13, 2001 at the Ski Bird Lodge in the Wasatch mountains of Utah (fun fact: other discussed choices for this meeting were Chicago, IL and Anguilla. Chicago was thought to be too cold without enough fun things to do and Anguilla too hard to get to). The Manifesto for Agile Software Development, more commonly referred to as the [Agile Manifesto](http://agilemanifesto.org/), was born from this fateful meeting of the minds. The manifesto, in full, is as follows:
 
 > We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
 >
