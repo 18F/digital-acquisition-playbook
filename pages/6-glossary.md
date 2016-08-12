@@ -19,13 +19,13 @@
 * **Prototype.** Quickly created, representations of a product, program, or service to test a hypothesis or assumption about the usability and/or functionality of a feature or set of features.
 
 
-## Lean
+## Lean Startup
 
-* **Fishbone (or Ishikawa) diagram.** A cause and effect diagram used to identify the root cause for an effect or problem.
-* **Kaizen:** Japanese term for "change for the better", this is the Lean method for identifying root causes of waste in processes. Kaizen manifest in Agile as the Team Retrospective.
-* **Muri.** The Japanese word for overburden.
-* **Mura.** The Japanese word for inconsistency or variation.
-* **Muda.** The Japanese word for waste.
+* **Actionable Metrics:** Metrics used to help determine outcomes of experiments and better understand product performance. These metrics tie "[specific and repeatable actions to observed results.](https://leanstack.com/3-rules-to-actionable-metrics/)"
+* **Innovation Accounting:** An accounting method to figure out if a startup is making a progress before there is enough gross numbers for traditional accounting to kick in. It is a way to define, measure, and communicate outcomes to stakeholders.
+* **Minimum Viable Product:** As [Ash Maurya](https://leanstack.com/minimum-viable-product/) states, a Minimum Viable Product is the smallest thing you can build that delivers a customer value (and as a bonus captures some of that value back).
+* **Pivot:** A structured course correction taken by an organization designed to test a new fundamental hypothesis about the product, strategy, and engine of growth.
+* **Validated Learning:** Determining pivot or preservere decision using actionable metrics from experiments. 
 
 
 ## Modular Contracting
