@@ -32,6 +32,7 @@ As defined in Clinger-Cohen legislation and Executive Order, modular contracting
 Kodak Eastman is credited with kicking off the trend of IT Outsourcing In 1989 when it entered into a contract with IBM for a 10 years totalling $250 million dollars for data center and PC support.  Many other entities, including federal agencies, entered into similarly structured contracts with differing results.  By 1996, the Clinger-Cohen Act wanted to modernize IT in the Federal Government and modular procurement was one piece to this modernization.
 
 Modular contracting is contained within FAR Part 39, and provides that by structuring contracts in this way versus single award, high dollar value, long term contracts that several smaller acquisition increments:
+
 1. Are easier to manage individually than would be possible in one comprehensive acquisition;
 2. Address complex information technology objectives incrementally in order to enhance the likelihood of achieving workable systems or solutions for attainment of those objectives;
 3. Provide for delivery, implementation, and testing of workable systems or solutions in discrete increments, each of which comprises a system or solution that is not dependent on any subsequent increment in order to perform its principal functions;
