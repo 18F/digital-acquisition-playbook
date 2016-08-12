@@ -2,11 +2,11 @@
 
 We are all in this together on this beautiful journey into digital acquisitions. The goal of this guide to to do one thing: **make you a smarter government buyer of digital products and services.** Digital acquisitions aren’t different from other acquisitions per se, it’s just a different domain speciality. From a broad perspective it is simply buying products and services related to software. Note that is guide focuses on digital acquisitions of custom software solutions but many of principles can be applied in various contexts. There are five main things that will make you a smarter buyer of digital products and services:
 
-1. Staying up to date on modern digital practices
-2. Knowing the market
-3. Understanding the true needs of your program teams and agency
-4. Making it easier to bid to attract better vendors
-5. Avoiding known landmines (more on this later)
+1. [Staying up to date on modern digital practices](https://github.com/18F/digital-acquisition-playbook/blob/master/pages/4-primers.md)
+2. [Building the right team](https://github.com/18F/digital-acquisition-playbook/blob/master/pages/process/1-ignition.md)
+3. [Understanding the true needs of your program teams and agency](https://github.com/18F/digital-acquisition-playbook/blob/master/pages/process/2-inception.md)
+4. [Writing better solicitations to attract a better vendor pool](https://github.com/18F/digital-acquisition-playbook/blob/master/pages/process/3-procurement.md)
+5. Avoiding known landmines (more on this below)
 
 It starts with changing your mindset and thinking a bit differently during each phase of the process. This guide breaks up digital acquisition process into five phases: Ignition, Inception, Procurement, Delivery, and Landing. In each phase, we’ll talk about the goals, activities, outputs, and desired outcomes to help you get what your agency and users really need: better digital products and services. 
 
