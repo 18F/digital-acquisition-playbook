@@ -18,14 +18,14 @@ Specific methodologies such as Scrum, eXtreme Programming, and in some cases Kan
 ## Key Terms
 
 * **[Product Backlog](https://www.atlassian.com/agile/backlogs):** a prioritized list of items for the development team to deliver. The most important items are shown at the top of the product backlog so the team knows what to deliver first. Items are often in the form of **user stories**.
-* **Epic:**  A large or high level user story that can be broken down into a number of smaller stories. (NOTE:  https://confluence.atlassian.com/agile/jira-agile-user-s-guide/working-with-epics) 
+* **[Epic](https://confluence.atlassian.com/agile/jira-agile-user-s-guide/working-with-epics) :**  A large or high level user story that can be broken down into a number of smaller stories.
 * **Product Owner**: The member of a scrum team who is responsible for what the team produces and the order in which it’s produced. The Product Owner is charged with making sure that the team produces something that is of value to users and customers.
 * **Retrospective:** At end of each sprint,  a retrospective is held which allows the team to reflect and adjust practices. Any team member can voice a problem or propose a solution.
 * **Scrum Master**: The servant leader of the team who facilitates, removes impediments, and generaly ensures that the team is working well without managing them directly.
 * **Sprint:** A short period of time (usually two weeks) during which the team produces some items of customer value.  Valuable feedback is sought from users and customers at the end of each sprint.
 * **Sprint Planning:** The team’s process of understanding and committing to a set of value to produce during the upcoming sprint. .
 * **Standups:** the team meets daily for short meetings which are typically held standing up, face-to-face to encourage brief sessions. This is not a status meeting, it is a meeting for team self-organization around the work of the day.  Team members  plan for the most efficient and productive day for the team. Long answers and discussions should have follow-up in smaller groups after the standup meeting.
-* **User Story:** A short, simple description of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system. They typically follow a simple template: As a <type of user>, I want <some goal> so that <some benefit>. (NOTE:  https://www.mountaingoatsoftware.com/agile/user-stories)
+* **[User Story](https://www.mountaingoatsoftware.com/agile/user-stories):** A short, simple description of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system. They typically follow a simple template: As a <type of user>, I want <some goal> so that <some benefit>.
 * **Velocity:** The sum of effort estimates associated with the user stories accepted by the Product Owner during a sprint.
 
 ## History
