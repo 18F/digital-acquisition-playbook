@@ -2,7 +2,7 @@
 
 ## Definition
 
-When most people think of "agile" they tend to think of specific agile methodologies like Scrum or eXtreme Programming. Agile is really a philosophical approach to software development centered around a few core principles (NOTE:  https://agilemanifesto.org):
+When most people think of "agile" they tend to think of specific agile methodologies like Scrum or eXtreme Programming. Agile is really a philosophical approach to software development centered around a few [core principles](https://agilemanifesto.org):
 
 1. People over process
 2. Working software (i.e., delivered value) over documentation
