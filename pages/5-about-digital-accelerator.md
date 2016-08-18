@@ -16,4 +16,4 @@ During the alpha phase, which we expect to complete toward the end of 2016, weâ€
 * National Virtual Translation Center (NVTC) redesign
 * Mobile tagging and scanning of crime scenes
 
-Learn more about the accelerator at [https://pages.18f.gov/digitalaccelerator/](https://pages.18f.gov/digitalaccelerator/), or the [https://18f.gsa.gov/tags/digital-acquisition-accelerator/](https://18f.gsa.gov/tags/digital-acquisition-accelerator/)
+Learn more about the accelerator at [https://pages.18f.gov/digitalaccelerator/](https://pages.18f.gov/digitalaccelerator/), or on our blog at [https://18f.gsa.gov/tags/digital-acquisition-accelerator/](https://18f.gsa.gov/tags/digital-acquisition-accelerator/)
