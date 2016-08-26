@@ -1,3 +1,6 @@
+---
+---
+
 # Lean Startup
 
 ## Definition

@@ -1,12 +1,12 @@
 # Overview
 
-We are all in this together on this beautiful journey into digital acquisitions. The goal of this guide to to do one thing: **make you a smarter government buyer of digital products and services.** Digital acquisitions aren’t different from other acquisitions per se, it’s just a different domain speciality. From a broad perspective it is simply buying products and services related to software. Note that is guide focuses on digital acquisitions of custom software solutions but many of principles can be applied in various contexts. There are five main things that will make you a smarter buyer of digital products and services:
+We are all in this together on this beautiful journey into digital acquisitions. The goal of this guide to to do one thing: **make you a smarter government buyer of digital products and services.** Digital acquisitions aren’t different from other acquisitions per se, it’s just a different domain speciality. From a broad perspective it is simply buying software and services related to software. Note that is guide is focuses on digital acquisitions of custom software solutions but many of principles can be applied in various contexts. There are five main things that will make you a smarter buyer of digital services and products:
 
-1. [Staying up to date on modern digital practices](https://github.com/18F/digital-acquisition-playbook/blob/master/pages/4-primers.md)
-2. [Building the right team](https://github.com/18F/digital-acquisition-playbook/blob/master/pages/process/1-ignition.md)
-3. [Understanding the true needs of your program teams and agency](https://github.com/18F/digital-acquisition-playbook/blob/master/pages/process/2-inception.md)
-4. [Writing better solicitations to attract a better vendor pool](https://github.com/18F/digital-acquisition-playbook/blob/master/pages/process/3-procurement.md)
-5. [Avoiding known landmines](#landmine)
+1. Staying up to date on modern digital practices
+2. Knowing the market
+3. Understanding the true needs of your program teams and agency
+4. Making it easier to bid to attract better vendors
+5. Avoiding known landmines (more on this later)
 
 It starts with changing your mindset and thinking a bit differently during each phase of the process. This guide breaks up digital acquisition process into five phases: Ignition, Inception, Procurement, Delivery, and Landing. In each phase, we’ll talk about the goals, activities, outputs, and desired outcomes to help you get what your agency and users really need: better digital products and services. 
 
@@ -17,7 +17,7 @@ In this guide you will find information about:
 - [Digital Acquistion Accelerator](https://github.com/18F/daap-playbook/blob/master/pages/5-about-daap.md)
 
 ## Background
-Here is a great collection of resources that will help you understand digital acquisitions (in case you need it!).
+Here is a great collection of resources that will help you better understand digital acquisitions (in case you need it!).
 
 * [TechFar](https://github.com/usds/playbook/blob/gh-pages/_includes/techfar-online.md)
 * [TechFar Hub](https://techfarhub.cio.gov/)
@@ -26,7 +26,6 @@ Here is a great collection of resources that will help you understand digital ac
 * [Digital Services Playbook](https://playbook.cio.gov/)
 * [Digital Contracting Cookbook](https://github.com/18F/contracting-cookbook)
 * [Acquistion.gov](https://www.acquisition.gov/)
-* [Open Data Stack Exchange](http://opendata.stackexchange.com/)
 
 Acquisitions is defined by the Federal Acquisitions Regulation (FAR) as the:
 
@@ -34,22 +33,21 @@ Acquisitions is defined by the Federal Acquisitions Regulation (FAR) as the:
 >
 > Acquisition begins at the point when agency needs are established and includes the description of requirements to satisfy agency needs, solicitation and selection of sources, award of contracts, contract financing, contract performance, contract administration, and those technical and management functions directly related to the process of fulfilling agency needs by contract." A short definition provided by the Federal Acquisition Institute explains acquisitions as "including traditional contracting functions, requirements definition, assessment and oversight of contract performance, and technical and management direction." 
 
-This is one of the key tools the federal government has at its disposal to get things done so it’s pretty important. In the past, federal IT acquisitions have not gone so well because:
+This is one of the key tools the federal government has at its disposal to get things done so it’s pretty important. In the past, federal IT acquisitions have not gone so well (NOTE:  Link to chaos report or article/site that talks about how this hasn’t gone well in the past.) (NOTE:  Link to additional reference that shows how federal IT acquisitions have not gone well) because:
 
-* There are a limited number of people in the workforce that understand both IT and Procurement which leads to a detrimental skills gap.
-* The "status quo" approach to large, multiyear, waterfall-based, extended requirement gathering, year-long competitions does not move at the same speed as technology.
-* Companies with creative solutions to many of the Government’s tech problems are finding it challenging to do business with the Government due to high barriers to entry, lack of customer facing tools, complex acquisition processes, and communication confusion on how to identify the available opportunities. [[Source](https://www.fai.gov/media_library/items/show/23)]
+* There are a limited number of people in the workforce that understand both IT and Procurement which leads to a detrimental skills gap,
+* The "status quo" approach to large, multiyear, waterfall-based, extended requirement gathering, year-long competitions does not move at the same speed as technology,
+* Companies with creative solutions to many of the Government’s tech problems are finding it challenging to do business with the Government due to high barriers to entry, lack of customer facing tools, complex acquisition processes, and communication confusion on how to identify the available opportunities.
 
 In this guide, we hope to help you understand how building cross-functional teams that understand and appreciate human-centered design methodologies, modern digital practices, and how thinking in terms of outcomes rather than requirements could transform digital acquisitions at your agency. We will also help you understand the open innovation movement and how it can apply to some of your digital projects to boot!
 
 Now that we have our background information out of the way, let’s talk about how you can lower your risks by avoiding some known landmines. These are all things that haven’t worked well for us when it comes down to digital acquisitions and you would be better off to avoid them (or at least use them carefully.
 
-<a name="landmine"></a>
 ## Landmine #1
 
 **Large, monolithic contracts**
 
-These, simply put, do not work well for digital products and services. [The Standish Group](http://www.infoq.com/articles/standish-chaos-2015) points out that you are only giving yourself a six percent chance of success when you start these types of projects. Also, technology moves fast and if you want your agency to be able to respond quickly in an ever changing landscape, you will need to avoid this at all costs.
+These, simply put, do not work well for digital products and services. Based on the numbers, you are only giving yourself a six percent chance of success when you start these types of projects. (NOTE:  Standish group chaos report http://www.infoq.com/articles/standish-chaos-2015) Also, technology moves fast and if you want your agency to be able to respond quickly in an ever changing landscape, you will need to avoid this at all costs.
 
 ## Landmine #2
 
@@ -68,12 +66,5 @@ Remember that acquisitions is more than just buying and because of this, it is i
 **Not being open to change**
 
 The world moves fast and technology moves even faster. You have to be willing to adapt, course correct, and try new things to get the best digital products and services for your teams. The goal is to get better outcomes, not just contracts. No matter what your experience has been until now, you can learn and apply new techniques to make acquisitions more effective, more efficient and hopefully more joyful (yes, joyful… more on this later). Being open to change means shifting the focus from a "no we can’t" to a ‘how might we” context. It allows you to solve the problems as they arrive and based on any given context, known or unknown.
-
-
-## Landmine #5
-
-**Forgetting that people, not contracts, manage projects**
-
-It is important to have a product owner that works with the vendor until the period of performance is complete. Often, a contracting officer may work really hard to be sure that every possible clause that may or may not be needed is included within the contract. This is fine, but it often overlooks the reality that over the life of the contract, new ideas will be formed and business strategy may shift so it is important to have someone from your agency working hand in hand with the vendor to help make rapid decisions that still align with organizational goals.  Relying too heavily on contract clauses to solve every problem that may arise over the period of performance is an untenable expectation. It is important that you are allotting time for a resource in your agency to be a product owner to ensure the outcome has a greater chance of success.
 
 Avoiding these common landmines are the first steps in transforming digital acquisitions at your agency.

@@ -1,0 +1,33 @@
+# Site settings
+title: Digital Acquisition Playbook
+email:
+permalink: pretty
+author:
+  name: Amy Wilson
+  email: amy.wilson@gsa.gov
+
+
+exclude:
+- CONTRIBUTING.md
+- Gemfile
+- Gemfile.lock
+- LICENSE.md
+- README.md
+- go
+- vendor
+
+sass:
+  style: :compressed
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
