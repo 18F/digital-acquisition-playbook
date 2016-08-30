@@ -6,19 +6,19 @@ permalink: /
 
 We are all in this together on this beautiful journey into digital acquisitions. The goal of this guide to to do one thing: **make you a smarter government buyer of digital products and services.** Digital acquisitions aren’t different from other acquisitions per se, it’s just a different domain speciality. From a broad perspective it is simply buying products and services related to software. Note that is guide focuses on digital acquisitions of custom software solutions but many of principles can be applied in various contexts. There are five main things that will make you a smarter buyer of digital products and services:
 
-1. [Staying up to date on modern digital practices]({{site.baseurl}}/4-primers)
-2. [Building the right team](https://github.com/18F/digital-acquisition-playbook/blob/master/pages/process/1-ignition.md)
-3. [Understanding the true needs of your program teams and agency](https://github.com/18F/digital-acquisition-playbook/blob/master/pages/process/2-inception.md)
-4. [Writing better solicitations to attract a better vendor pool](https://github.com/18F/digital-acquisition-playbook/blob/master/pages/process/3-procurement.md)
+1. [Staying up to date on modern digital practices]({{site.baseurl}}/primers)
+2. [Building the right team]({{site.baseurl}}/ignition.md)
+3. [Understanding the true needs of your program teams and agency]({{site.baseurl}}/inception.md)
+4. [Writing better solicitations to attract a better vendor pool]({{site.baseurl}}/procurement.md)
 5. [Avoiding known landmines](#landmine)
 
 It starts with changing your mindset and thinking a bit differently during each phase of the process. This guide breaks up digital acquisition process into five phases: Ignition, Inception, Procurement, Delivery, and Landing. In each phase, we’ll talk about the goals, activities, outputs, and desired outcomes to help you get what your agency and users really need: better digital products and services. 
 
 In this guide you will find information about:
-- [Digital Acquisition Process](https://github.com/18F/daap-playbook/blob/master/pages/3-process.md)
-- [Primers on Modern Digital Practices](https://github.com/18F/daap-playbook/blob/master/pages/4-primers.md)
-- [Related Case Studies](https://github.com/18F/daap-playbook/blob/master/pages/2-case-study.md)
-- [Digital Acquistion Accelerator](https://github.com/18F/daap-playbook/blob/master/pages/5-about-daap.md)
+- [Digital Acquisition Process]({{site.baseurl}}/process.md)
+- [Primers on Modern Digital Practices]({{site.baseurl}}/primers.md)
+- [Related Case Studies]({{site.baseurl}}/case-study.md)
+- [Digital Acquistion Accelerator]({{site.baseurl}}/about-daap.md)
 
 ## Background
 Here is a great collection of resources that will help you understand digital acquisitions (in case you need it!).
@@ -49,6 +49,7 @@ In this guide, we hope to help you understand how building cross-functional team
 Now that we have our background information out of the way, let’s talk about how you can lower your risks by avoiding some known landmines. These are all things that haven’t worked well for us when it comes down to digital acquisitions and you would be better off to avoid them (or at least use them carefully.
 
 <a name="landmine"></a>
+
 ## Landmine #1
 
 **Large, monolithic contracts**
