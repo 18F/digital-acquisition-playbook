@@ -1,7 +1,6 @@
 ---
+title: Agile
 ---
-
-# Agile
 
 ## Definition
 

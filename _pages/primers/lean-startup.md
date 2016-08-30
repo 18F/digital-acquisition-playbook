@@ -1,7 +1,6 @@
 ---
+title: Lean Startup
 ---
-
-# Lean Startup
 
 ## Definition
 

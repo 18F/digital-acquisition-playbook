@@ -755,9 +755,14 @@ a[id]{
 	.layout-article-procurement nav .procurement a,
 	.layout-article-delivery nav .delivery a,
 	.layout-article-landing nav .landing a,
-	.layout-article-primers nav .primers a,
+	.layout-article-primers nav .primers > a,
 	.layout-article-about nav .about a,
-	.layout-article-glossary nav .glossary a{
+	.layout-article-glossary nav .glossary a,
+   .layout-article-agile nav .agile a,
+   .layout-article-lean-startup nav .lean-startup a,
+   .layout-article-human-centered-design-hcd nav .human-centered-design a,
+   .layout-article-open-innovation nav .open-innovation a,
+   .layout-article-modular-contracting nav .modular-contracting a{
 		font-weight: 600;
 		color: #333;
 		text-decoration: none;

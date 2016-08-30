@@ -1,7 +1,6 @@
 ---
+title: Modular Contracting
 ---
-
-# Modular Contracting
 
 As described in the [FAR](https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%2039_1.html#wp1096828), modular contracting is,
 > intended to reduce program risk and to incentivize contractor performance while meeting the Government’s need for timely access to rapidly changing technology. 

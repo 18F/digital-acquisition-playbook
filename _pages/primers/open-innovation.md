@@ -1,7 +1,6 @@
 ---
+title: Open Innovation
 ---
-
-# Open Innovation
 
 ## Definition
 

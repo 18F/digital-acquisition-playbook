@@ -1,7 +1,6 @@
 ---
+title: Human-Centered Design (HCD)
 ---
-
-# Human-Centered Design (HCD)
 
 ## Definition
 

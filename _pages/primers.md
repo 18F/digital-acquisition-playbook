@@ -5,8 +5,8 @@ issue: 9
 
 Understanding these five practices and concepts can help improve the digital acquisition capability of your teams. These are:
 
-* [Agile](https://github.com/18F/digital-acquisition-playbook/blob/master/pages/primers/agile.md)
-* [Lean Startup](https://github.com/18F/digital-acquisition-playbook/blob/master/pages/primers/lean-startup.md)
-* [Human-Centered Design](https://github.com/18F/digital-acquisition-playbook/blob/master/pages/primers/human-centered-design.md)
-* [Open Innovation](https://github.com/18F/digital-acquisition-playbook/blob/master/pages/primers/open-innovation.md)
-* [Modular contracting](https://github.com/18F/digital-acquisition-playbook/blob/master/pages/primers/modular-contracting.md)
+* [Agile]({{site.baseurl}}/primers/agile)
+* [Lean Startup]({{site.baseurl}}/primers/lean-startup)
+* [Human-Centered Design]({{site.baseurl}}/primers/human-centered-design)
+* [Open Innovation]({{site.baseurl}}/primers/open-innovation)
+* [Modular contracting]({{site.baseurl}}/primers/modular-contracting)
