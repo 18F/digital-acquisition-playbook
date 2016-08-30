@@ -1,4 +1,4 @@
 ---
+title: Landing
 ---
-
-# Coming soon
+ Coming soon

@@ -5,11 +5,15 @@
     <a class="a-skip-to-main" href="#main">Skip to main content</a>
     {% include site-header.html %}
     <main class="article" role="main" id="main">
+      {% include nav.html %}
       <div class="page">
         <div class="wrapper">
           <h1 class="page-title">{{ page.title }}</h1>
-          {% include nav.html %}
           {{ content }}
+          {% if page.issue %}
+            <p><a href="https://github.com/18F/digital-acquisition-playbook/issues/{{page.issue}}" class="button">Leave a comment on this page</a></p>
+          {% endif %}
+  
         </div>
       </div>
     </main>

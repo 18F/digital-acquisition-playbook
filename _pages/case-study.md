@@ -1,6 +1,7 @@
 ---
+title: Case Study&#58; HHS Buyer&rsquo;s Club
+issue: 8
 ---
-# Case Study: HHS Buyer’s Club
 
 "The HHS Buyers Club is a HHS IDEA Lab sponsored project focused on addressing a critical problem in government: modernizing federal acquisition of information technology (IT) and related services. Given the expansion and impactful role of digital services throughout government, there are many opportunities to improve existing acquisition methods that are used to support government services, thereby directly benefiting the public.
 

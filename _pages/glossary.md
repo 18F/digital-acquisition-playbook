@@ -1,6 +1,7 @@
 ---
+title: Glossary
+issue: 11
 ---
-# Glossary
 
 ## Agile
 
