@@ -7,7 +7,7 @@ permalink: /
 We are all in this together on this beautiful journey into digital acquisitions. The goal of this guide to to do one thing: **make you a smarter government buyer of digital products and services.** Digital acquisitions aren’t different from other acquisitions per se, it’s just a different domain speciality. From a broad perspective it is simply buying products and services related to software. Note that is guide focuses on digital acquisitions of custom software solutions but many of principles can be applied in various contexts. There are five main things that will make you a smarter buyer of digital products and services:
 
 1. [Staying up to date on modern digital practices]({{site.baseurl}}/primers)
-2. [Building the right team]({{site.baseurl}}/ignition)
+2. [Building the right team]({{site.baseurl}}/process/ignition)
 3. [Understanding the true needs of your program teams and agency]({{site.baseurl}}/inception)
 4. [Writing better solicitations to attract a better vendor pool]({{site.baseurl}}/procurement)
 5. [Avoiding known landmines](#landmine)
