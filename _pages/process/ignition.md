@@ -1,7 +1,6 @@
 ---
+title: Ignition
 ---
-
-# Ignition
 
 As an agency is paramount that you build the right digital acquisitions team and provide them with the right training. Your teams should be cross-functional and have a fundamental understanding of agile, lean, human-centered design, and open innovation. It is important to think of this learning as foundational and continuous. Technology changes fast and your team will have to learn to keep pace with it to maintain the market expertise necessary to make smart at digital acquisition decisions. 
 

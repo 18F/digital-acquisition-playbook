@@ -1,6 +1,7 @@
 ---
+Title: Digital Acquisitions Process
+issue: 7
 ---
-# Digital Acquisitions Process
 
 The digital acquisitions process can be broken up into different phases which are:
 

@@ -1,4 +1,5 @@
 ---
+title: Procurement
 ---
 
-# Coming soon
+Coming soon

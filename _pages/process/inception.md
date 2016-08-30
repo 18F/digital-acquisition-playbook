@@ -1,7 +1,6 @@
 ---
+title: Inception
 ---
-
-# Inception
 
 Inception, a term adapted from agile development, is a short, days long discovery spike used to define the key inputs needed to create a more informed solicitation for your digital acquisition. The goal of inception is to quickly align your digital acquisitions team around a shared understanding of who the end users are, the problem you are trying to solve, and a vision for how the product will best serve end users and your organization over time. Inception allows your team to create improved solicitations based on prioritized, actionable user stories and focused product objectives. The entire cross-functional team and key stakeholders should be involved for the entirety of the inception phase and this should occur before your contracting officers begin to develop the solicitation.
 
