@@ -25,7 +25,7 @@ Human-centered design consists of three phases. In the Inspiration Phase you’l
 Human Centered Design was popularized in the 1990s by the Standford d.school and the design company IDEO. HCD was an evolution of participatory and cooperative design which is built upon various disciplines like anthropology, sociology, and psychology. The [principles of human centered design](http://dschool.stanford.edu/wp-content/uploads/2011/03/BootcampBootleg2010v2SLIM.pdf) are:
 
 1. **Focus on Human Values.** Empathy for the people you are designing for and feedback from these users is fundamental to good design
-2. **Craft Clarity. **Produce a coherent vision out of messy problems. Frame it in a way to inspire others and to fuel ideation.
+2. **Craft Clarity.** Produce a coherent vision out of messy problems. Frame it in a way to inspire others and to fuel ideation.
 3. **Embrace Experimentation.** Prototyping is not simply a way to validate your idea; it is an integral part of your innovation process. We build to think and learn. 
 4. **Be Mindful Of Process.** Know where you are in the design process, what methods to use in that stage, and what your goals are.
 5. **Bias Toward Action.** Design thinking is a misnomer; it is more about doing that thinking. Bias toward doing and making over thinking and meeting. 
