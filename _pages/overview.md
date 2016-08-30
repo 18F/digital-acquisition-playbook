@@ -8,8 +8,8 @@ We are all in this together on this beautiful journey into digital acquisitions.
 
 1. [Staying up to date on modern digital practices]({{site.baseurl}}/primers)
 2. [Building the right team]({{site.baseurl}}/process/ignition)
-3. [Understanding the true needs of your program teams and agency]({{site.baseurl}}/inception)
-4. [Writing better solicitations to attract a better vendor pool]({{site.baseurl}}/procurement)
+3. [Understanding the true needs of your program teams and agency]({{site.baseurl}}/process/inception)
+4. [Writing better solicitations to attract a better vendor pool]({{site.baseurl}}/process/procurement)
 5. [Avoiding known landmines](#landmine)
 
 It starts with changing your mindset and thinking a bit differently during each phase of the process. This guide breaks up digital acquisition process into five phases: Ignition, Inception, Procurement, Delivery, and Landing. In each phase, we’ll talk about the goals, activities, outputs, and desired outcomes to help you get what your agency and users really need: better digital products and services. 
