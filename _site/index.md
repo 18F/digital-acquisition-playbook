@@ -11,10 +11,10 @@ We are all in this together on this beautiful journey into digital acquisitions.
 It starts with changing your mindset and thinking a bit differently during each phase of the process. This guide breaks up digital acquisition process into five phases: Ignition, Inception, Procurement, Delivery, and Landing. In each phase, we’ll talk about the goals, activities, outputs, and desired outcomes to help you get what your agency and users really need: better digital products and services. 
 
 In this guide you will find information about:
-- [Digital Acquisition Process](https://github.com/18F/daap-playbook/blob/master/pages/3-process.md)
-- [Primers on Modern Digital Practices](https://github.com/18F/daap-playbook/blob/master/pages/4-primers.md)
-- [Related Case Studies](https://github.com/18F/daap-playbook/blob/master/pages/2-case-study.md)
-- [Digital Acquistion Accelerator](https://github.com/18F/daap-playbook/blob/master/pages/5-about-daap.md)
+- [Digital Acquisition Process]({{site.baseurl}}/process)
+- [Primers on Modern Digital Practices]({{site.baseurl}}/primers)
+- [Related Case Studies]({{site.baseurl}}/case-study)
+- [Digital Acquistion Accelerator]({{site.baseurl}}/about)
 
 ## Background
 Here is a great collection of resources that will help you better understand digital acquisitions (in case you need it!).
