@@ -46,7 +46,7 @@ This is one of the key tools the federal government has at its disposal to get t
 
 In this guide, we hope to help you understand how building cross-functional teams that understand and appreciate human-centered design methodologies, modern digital practices, and how thinking in terms of outcomes rather than requirements could transform digital acquisitions at your agency. We will also help you understand the open innovation movement and how it can apply to some of your digital projects to boot!
 
-Now that we have our background information out of the way, let’s talk about how you can lower your risks by avoiding some known landmines. These are all things that haven’t worked well for us when it comes down to digital acquisitions and you would be better off to avoid them (or at least use them carefully.
+Now that we have our background information out of the way, let’s talk about how you can lower your risks by avoiding some known landmines. These are all things that haven’t worked well for us when it comes down to digital acquisitions and you would be better off to avoid them (or at least use them carefully).
 
 <a name="landmine"></a>
 
