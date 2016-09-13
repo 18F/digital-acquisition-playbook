@@ -19,7 +19,7 @@ Lean methodology can be summed up as the process of creating more value for cust
 * **Innovation Accounting:** An accounting method to figure out if a startup is making progress before there is enough gross numbers for traditional accounting to kick in. It's a way to define, measure, and communicate outcomes to stakeholders.
 * **Minimum Viable Product:** As [Ash Maurya](https://leanstack.com/minimum-viable-product/) states, a Minimum Viable Product is the smallest thing you can build that delivers a customer value (and as a bonus captures some of that value back).
 * **Pivot:** A structured course correction taken by an organization designed to test a new fundamental hypothesis about the product, strategy, and engine of growth.
-* **Validated learning:** Determining whether to pivot or preservere a decision using actionable metrics from experiments. 
+* **Validated learning:** Determining whether to pivot or persevere on a decision using actionable metrics from experiments. 
 
 ## History
 
