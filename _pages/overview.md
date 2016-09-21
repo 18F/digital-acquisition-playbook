@@ -47,39 +47,39 @@ This is one of the key tools the federal government has at its disposal to get t
 
 In this guide, we hope to help you understand how building cross-functional teams that understand and appreciate human-centered design methodologies, modern digital practices, and how thinking in terms of outcomes rather than requirements could transform digital acquisitions at your agency. We will also help you understand the open innovation movement and how it can apply to some of your digital projects.
 
-Now that we have our background information out of the way, let’s talk about how you can lower your risks by avoiding some known landmines. These are all things that haven’t worked well for us when it comes down to digital acquisitions and you would be better off to avoid them (or at least use them carefully).
+Now that we have our background information out of the way, let’s talk about how you can lower your risks by avoiding some known pitfalls. These are all things that haven’t worked well for us when it comes down to digital acquisitions and you would be better off to avoid them (or at least use them carefully).
 
 <a name="landmine"></a>
 
-## Landmine #1
+## Pitfall #1
 
 **Large, monolithic contracts**
 
 These, simply put, often do not work well for digital products and services. [The Standish Group](http://www.infoq.com/articles/standish-chaos-2015) points out that you're only giving yourself a six percent chance of success when you start these types of projects. Also, technology moves fast, and if you want your agency to be able to respond quickly in an ever-changing landscape, you'll need to avoid this at all costs.
 
-## Landmine #2
+## Pitfall #2
 
 **Writing too-large RFPs**
 
 In 1907, the U.S. Army wanted to acquire an airplane, mind you that airplanes were so cutting edge at the time that they weren’t even called airplanes, they were called "heavier than air flying machines." Guess how many pages the solicitation was for this piece of technology? 50? 20? No, it was 2 pages! You don't need 100-page RFPs to acquire the best digital solutions for your agency. Often, all this does is encourage some of your best potential vendors to not respond. The length of these types of RFPs are typically driven by the old requirements-gathering mindset combined with bloated legalese where the concern is more about oversight and liability than product quality and project success. These long RFPs take too much time for your agency to write, too much time from vendors to respond to, and discourage good vendors from bidding. There are very few good outcomes when this happens. Instead, work internally to develop a sound problem statement and product vision. Think in terms of objectives and user stories. Indeed, modern agile development methods pay careful attention to alternative ways of specifying and achieving desired outcomes for product development.
 
-## Landmine #3
+## Pitfall #3
 
 **Only having "acquisitions" people involved in the acquisitions process**
 
 Acquisitions is more than just buying, and it's important to bring key expertise, like policy, law, engineering, design, and security, to the table early in the acquisitions process to ensure a project’s success. Leveraging the expertise of a cross-functional team will help make sure your agency is solving the problems for your end users.
 
-## Landmine #4
+## Pitfall #4
 
 **Not being open to change**
 
 The world moves fast and technology moves even faster. You have to be willing to adapt, course correct, and try new things to get the best digital products and services for your teams. The goal is to get better outcomes, not just contracts. No matter what your experience has been until now, you can learn and apply new techniques to make acquisitions more effective, more efficient and hopefully more joyful (yes, joyful… more on this later). Being open to change means shifting the focus from a "no we can’t" to a "how might we” context. It allows you to solve the problems as they arrive based on any given context, known or unknown.
 
 
-## Landmine #5
+## Pitfall #5
 
 **Forgetting that people, not contracts, manage projects**
 
 It's important to have a product owner that works with the vendor until the period of performance is complete. Often, a contracting officer may work really hard to be sure that every possible clause that may or may not be needed is included within the contract. This is fine, but it often overlooks the reality that over the life of the contract, new ideas will be formed and business strategy may shift. So it's important to have someone from your agency working hand in hand with the vendor to help make rapid decisions that still align with organizational goals.  Relying too heavily on contract clauses to solve every problem that may arise over the period of performance is an untenable expectation. It's important that you're allotting time for a resource in your agency to be a product owner to ensure the outcome has a greater chance of success.
 
-Avoiding these common landmines is the first steps in transforming digital acquisitions at your agency.
+Avoiding these common pitfalls is the first steps in transforming digital acquisitions at your agency.
