@@ -132,4 +132,4 @@ For this process to work, it's important that you move together as a team to mov
 * **Meet with a purpose.** Time is always of the essence so be sure to have a clear agenda and desired outcomes for meetings. 
 * **Create a safe space for ideas.** Do not be afraid as a team to try something new, and be willing to listen to new approaches to solve the problems in front of you.
 * **Appreciate candor.** Allowing space for team members to speak directly about what is working and what is not working will help speed up the workflow. 
-* **Value other disciplines. **Each team member will bring something valuable to the team based on their experience and expertise. 
+* **Value other disciplines.** Each team member will bring something valuable to the team based on their experience and expertise. 
