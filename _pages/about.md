@@ -5,7 +5,7 @@ issue: 10
 
 Announced in March 2016 by the Office of Federal Procurement Policy (OFPP), the Digital Acquisition Accelerator is a pilot program aimed at helping agencies accelerate the adoption of digital acquisition practices. It’s funded by the General Services Administration, and is managed and delivered by 18F and the Presidential Innovation Fellows. Its purpose is to complement, not replace, the creation of an Acquisition Innovation Lab, per the OFPP memo.
 
-This Accelerator program is currently running as a pilot, which means we’re still learning how best to design it. Toward this end, we’ve broken it into two phases—alpha and beta.
+This Accelerator program is currently running as a pilot, which means we’re still learning how best to design it. Toward this end, we’ve broken it into two phases — alpha and beta.
 
 During the alpha phase, which we expect to complete toward the end of 2016, we’re working with two agencies — the U.S. Department of the Treasury and the Federal Bureau of Investigation (FBI). These agencies will work on the following products:
 
@@ -19,4 +19,4 @@ During the alpha phase, which we expect to complete toward the end of 2016, we�
 * National Virtual Translation Center (NVTC) redesign
 * Mobile tagging and scanning of crime scenes
 
-Learn more about the accelerator at [https://pages.18f.gov/digitalaccelerator/](https://pages.18f.gov/digitalaccelerator/), or on our blog at [https://18f.gsa.gov/tags/digital-acquisition-accelerator/](https://18f.gsa.gov/tags/digital-acquisition-accelerator/)
+[Learn more about the accelerator](https://pages.18f.gov/digitalaccelerator/), and read our [blog posts about our process](https://18f.gsa.gov/tags/digital-acquisition-accelerator/)
