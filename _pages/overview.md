@@ -10,7 +10,7 @@ The goal of this guide is to do one thing: **make you a smarter government buyer
 2. [Building the right team]({{site.baseurl}}/process/ignition)
 3. [Understanding the true needs of your program teams and agency]({{site.baseurl}}/process/inception)
 4. [Writing better solicitations to attract a better vendor pool]({{site.baseurl}}/process/procurement)
-5. [Avoiding known landmines](#landmine)
+5. [Avoiding known pitfalls](#pitfall)
 
 It starts with changing your mindset and thinking a bit differently during each phase of the process. This guide breaks up digital acquisition process into five phases: Ignition, Inception, Procurement, Delivery, and Landing. In each phase, we’ll talk about the goals, activities, outputs, and desired outcomes to help you get what your agency and users really need: better digital products and services. 
 
@@ -49,7 +49,7 @@ In this guide, we hope to help you understand how building cross-functional team
 
 Now that we have our background information out of the way, let’s talk about how you can lower your risks by avoiding some known pitfalls. These are all things that haven’t worked well for us when it comes down to digital acquisitions and you would be better off to avoid them (or at least use them carefully).
 
-<a name="landmine"></a>
+<a name="pitfall"></a>
 
 ## Pitfall #1
 
