@@ -7,6 +7,6 @@ Understanding these five practices and concepts can help improve the digital acq
 
 * [Agile]({{site.baseurl}}/primers/agile)
 * [Lean Startup]({{site.baseurl}}/primers/lean-startup)
-* [Human-Centered Design]({{site.baseurl}}/primers/human-centered-design)
-* [Open Innovation]({{site.baseurl}}/primers/open-innovation)
+* [Human-centered design]({{site.baseurl}}/primers/human-centered-design)
+* [Open innovation]({{site.baseurl}}/primers/open-innovation)
 * [Modular contracting]({{site.baseurl}}/primers/modular-contracting)
