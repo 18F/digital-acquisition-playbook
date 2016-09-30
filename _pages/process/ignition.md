@@ -11,7 +11,7 @@ As an agency, it's paramount that you build the right digital acquisitions team 
 
 At the end of this phase you should have: 
 
-* A cross functional team to work on the digital acquisition
+* A cross-functional team to work on the digital acquisition
 * Identified gaps in skills on the team and a plan to address them
 * Provided training and resources to get the team up to speed on the fundamentals of digital
 
