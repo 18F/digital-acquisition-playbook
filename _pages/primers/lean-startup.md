@@ -30,7 +30,7 @@ This philosophy has been applied to other industries such as Lean Thinking, Lean
 Lean Startup, coined by Eric Ries, is a principled approach to new product development. His work was influenced by Steve Blank's [The Four Steps to Epiphany](https://www.amazon.com/dp/0976470705?tag=lessolearn01-20&camp=0&creative=0&linkCode=as4&creativeASIN=0976470705&adid=0E34NG800FT9HMWYP4D6&), and it's built upon five core principles:
 
 1. Entreprenueurs are everwhere — and you may be one of them.
-2. Entrepreneurship is management — 
+2. Entrepreneurship is management — it helps you identify a sustainable business model with the least amount of waste possbile.
 3. Validated learning — results from running experiments that can test elements of a product vision.
 4. Innovation accounting — method of measuring progress, setting up milestones, and prioritizing work when developing. 
 5. Build-measure-learn — the process of turning ideas into products based on customer feedback.
