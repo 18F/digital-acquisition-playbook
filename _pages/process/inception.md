@@ -123,7 +123,6 @@ User stories are typically organized in a product backlog — a list of prioriti
 
 There’s a formula to build a user story map: users have a vision, which are achieved by goals. Their goals are reached by completing activities, and to complete an activity users must perform tasks. At the top of the whole story map is the users who are at the center of the journey, and the tasks are laid out according to the sequence of time on the X axis, and the priority of the tasks on the Y axis. 
 
-[insert image if possible]
 
 ### How-to guide
 
