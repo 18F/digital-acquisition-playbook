@@ -82,7 +82,6 @@ Creating a problem statement
 
 - [CATWOE Analysis](http://bpmgeek.com/blog/what-catwoe-analysis) 
 - [Five Ws (Who, What, When, Where Why) and H ](https://en.wikipedia.org/wiki/Five_Ws) 
-- [Link to Amy’s Worksheet]
 
 ## Developing a product vision and strategy
 
