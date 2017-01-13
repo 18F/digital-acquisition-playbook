@@ -6,20 +6,20 @@ permalink: /
 
 The goal of this guide is to do one thing: **make you a smarter government buyer of digital products and services.** Digital acquisitions aren’t different from other acquisitions per se, it’s just a different domain speciality. From a broad perspective it's simply buying products and services related to software. Note that this guide focuses on digital acquisitions of custom software solutions but many of these principles can be applied in various contexts. There are five main things that will make you a smarter buyer of digital products and services:
 
-1. [Staying up to date on modern digital practices]({{site.baseurl}}/primers)
-2. [Building the right team]({{site.baseurl}}/process/ignition)
-3. [Understanding the true needs of your program teams and agency]({{site.baseurl}}/process/inception)
-4. [Writing better solicitations to attract a better vendor pool]({{site.baseurl}}/process/procurement)
+1. [Staying up to date on modern digital practices]({{site.baseurl}}/primers/)
+2. [Building the right team]({{site.baseurl}}/process/ignition/)
+3. [Understanding the true needs of your program teams and agency]({{site.baseurl}}/process/inception/)
+4. [Writing better solicitations to attract a better vendor pool]({{site.baseurl}}/process/procurement/)
 5. [Avoiding known pitfalls](#pitfall)
 
 It starts with changing your mindset and thinking a bit differently during each phase of the process. This guide breaks up digital acquisition process into five phases: Ignition, Inception, Procurement, Delivery, and Landing. In each phase, we’ll talk about the goals, activities, outputs, and desired outcomes to help you get what your agency and users really need: better digital products and services. 
 
 In this guide you'll find information about:
 
-- [Digital acquisition process]({{site.baseurl}}/process)
-- [Primers on modern digital practices]({{site.baseurl}}/primers)
-- [Related case studies]({{site.baseurl}}/case-study)
-- [Digital Acquistion Accelerator]({{site.baseurl}}/about)
+- [Digital acquisition process]({{site.baseurl}}/process/)
+- [Primers on modern digital practices]({{site.baseurl}}/primers/)
+- [Related case studies]({{site.baseurl}}/case-study/)
+- [Digital Acquistion Accelerator]({{site.baseurl}}/about/)
 
 ## Background
 Here's a collection of resources that will help you understand digital acquisitions:
